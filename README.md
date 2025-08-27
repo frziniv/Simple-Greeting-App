@@ -1,2 +1,3 @@
-# Simple-Greeting-App
-A basic Python script created to demonstrate the fundamental Git workflow, including initial commits and subsequent updates.
+# main.py
+# main.py
+print("Hello, World! This is the initial version of the script.")
