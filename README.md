@@ -7,4 +7,4 @@ def generate_greeting(name):
 # Main execution
 if __name__ == "__main__":
   message = generate_greeting("World")
-  print(message)print("Hello, World! This is the initial version of the script.")
+  print(message)printitial version of the script.")
